@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.Stacktest" tests="6" skipped="0" failures="0" errors="0" timestamp="2014-12-12T22:14:29" hostname="Jutti" time="0.004">
+  <properties/>
+  <testcase name="testStackPush" classname="test.java.Stacktest" time="0.0"/>
+  <testcase name="testQueuePush" classname="test.java.Stacktest" time="0.001"/>
+  <testcase name="testPopQueue" classname="test.java.Stacktest" time="0.001"/>
+  <testcase name="testPopStack" classname="test.java.Stacktest" time="0.0"/>
+  <testcase name="testLenght" classname="test.java.Stacktest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="test.java.Stacktest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
