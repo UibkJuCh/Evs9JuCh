@@ -12,14 +12,14 @@ Continuous Integration is a development pratice where developers of a team uploa
 
 Because of the many Uploads, errors can be discoverd quicker. There is significantly less back-tracking to discover things that went wrong.  If you dont do continuous integration you will have longer Periods between them and automatically more code to check for Errors! 
 
-*Say goodbye to long and tense integrations
-*Increase visibility which enables greater communication
-*Catch issues fast and nip them in the bud
-*Spend less time debugging and more time adding features
-*Proceed in the confidence you’re building on a solid foundation
-*Stop waiting to find out if your code’s going to work
-*Reduce integration problems allowing you to deliver software more rapidly
+* Say goodbye to long and tense integrations
+* Increase visibility which enables greater communication
+* Catch issues fast and nip them in the bud
+* Spend less time debugging and more time adding features
+* Proceed in the confidence you’re building on a solid foundation
+* Stop waiting to find out if your code’s going to work
+* Reduce integration problems allowing you to deliver software more rapidly
 
 ### Drawbacks
 
-*Much more Responsibilities
+* Much more Responsibilities
